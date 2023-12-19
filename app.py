@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from rich.console import Console
 
-# Tu lógica de la aplicación aquí
+# Tu lógica de la aplicación aquíwowowo
 
 def main():
     # Ejemplo: Crear un DataFrame con pandas
